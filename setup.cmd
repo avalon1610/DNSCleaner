@@ -1,0 +1,1 @@
+pyinstaller.py DNSC.py -F -o ./ -i icon.ico
